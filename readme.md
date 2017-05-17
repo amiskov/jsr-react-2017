@@ -3,7 +3,7 @@
 Мои домашки лежат в [форке `js_ru_20_04_19_30`](https://github.com/amiskov/js_ru_20_04_19_30). На компе репа лежит в `~/Projects/edu/js_ru_20_04_19_30`.
 
 ## Тулзы
-* ReactDevTools
+* [ReactDevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
 * [Live Templates form JetBrains IDEs](https://github.com/minwe/jetbrains-react) — установил.
 
 ## Как обновлять форкнутый репозиторий
